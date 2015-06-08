@@ -1,17 +1,17 @@
-  [formatting cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+  [formatting cheat sheet](https://guides.github.com/features/mastering-markdown/)
+
+# Introduktion
+Introduktion
   
-  # Introduktion
-  Introduktion
-  
-  # Forudsætninger
+# Forudsætninger
   prereqs
   
-  ## github og gmail
-  Vi bruger github, så du skal have en github konto. For at få en github konto 
+## github og gmail
+Vi bruger github, så du skal have en github konto. For at få en github konto 
   skal du have en gmail konto.
   
-  ## docker hub
-  Vi skal formentlig pushe images til docker hub. Til det skal du bruge en 
+## docker hub
+Vi skal formentlig pushe images til docker hub. Til det skal du bruge en 
   registry account. Du kan lave den [her](https://registry.hub.docker.com/)
   
   
