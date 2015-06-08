@@ -1,10 +1,10 @@
   [formatting cheat sheet](https://guides.github.com/features/mastering-markdown/)
 
 # Formål
-At skabe fælles forståelse for den tekniske og praktiske løsning bag en mulig CD løsning på TOP.
-At få problemer og behov for en fremtidig CD løsning frem i lyset.
-At skabe fælles ejerskab for løsningen på tværs af afdelinger.
-... add your own ...
+* At skabe fælles forståelse for den tekniske og praktiske løsning bag en mulig CD løsning på TOP.
+* At få problemer og behov for en fremtidig CD løsning frem i lyset.
+* At skabe fælles ejerskab for løsningen på tværs af afdelinger.
+* ... add your own ...
 
   
 # Forudsætninger
