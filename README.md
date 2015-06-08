@@ -1,8 +1,5 @@
   [formatting cheat sheet](https://guides.github.com/features/mastering-markdown/)
 
-# Introduktion
-Introduktion
-
 # Formål
 At skabe fælles forståelse for den tekniske og praktiske løsning bag en mulig CD løsning på TOP.
 At få problemer og behov for en fremtidig CD løsning frem i lyset.
@@ -15,9 +12,9 @@ Det forventes at du er er køreklar ud fra BOYD princippet. Hvis du ikke kan ska
 kan det være Jesper kan skaffe en til dig. Sig til i god tid !!!
 
 ## github og gmail
-Vi bruger github, så du skal have en github konto. Du skal også have adgang til 
-vores "Hackathon
-  
+Vi bruger github, så du skal have en github konto. Du skal også have skriveadgang til 
+vores "Hackathon", det får du ved at sende den mail du vil have adgang til, til Nikolaj eller Jesper og sende den mail.
+
 ## docker hub
 Vi skal _formentlig_ pushe images til docker hub. Til det skal du bruge en 
 registry account. Du kan lave en på forhånd [her](https://registry.hub.docker.com/)
@@ -25,9 +22,12 @@ registry account. Du kan lave en på forhånd [her](https://registry.hub.docker.
 
 # Tidsplan
 
-## Tirsdag kl. 9.00
-Vi mødes i DGI byen. Oplæg omkring opgaven, test af de enkeltes setup. 
-Måske lidt morgenmad.
+## Tirsdag kl. 9.00-10.30
+Vi mødes i DGI byen. 
+* Oplæg omkring opgaven
+* test af de enkeltes setup
+* Måske lidt morgenmad.
+* fælles sammenstykning af dagens agenda
 
 ## Tirsdag kl. 12.30 ?
 Fælles frokost
