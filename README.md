@@ -1,9 +1,10 @@
   [formatting cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   
   # Introduktion
-  
+  Introduktion
   
   # Forudsætninger
+  prereqs
   
   ## github og gmail
   Vi bruger github, så du skal have en github konto. For at få en github konto 
