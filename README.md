@@ -13,7 +13,7 @@ kan det være Jesper kan skaffe en til dig. Sig til i god tid !!!
 
 ## github og gmail
 Vi bruger github, så du skal have en github konto. Du skal også have skriveadgang til 
-vores "Hackathon", det får du ved at sende den mail du vil have adgang til, til Nikolaj eller Jesper og sende den mail.
+vores "Hackathon", det får du ved at sende den mail du vil have adgang til, til Nikolaj eller Jesper.
 
 ## docker hub
 Vi skal _formentlig_ pushe images til docker hub. Til det skal du bruge en 
