@@ -23,26 +23,29 @@ registry account. Du kan lave en på forhånd [her](https://registry.hub.docker.
 # Tidsplan
 
 ## Tirsdag kl. 9.00-10.30
-Vi mødes i DGI byen. 
+Vi mødes i DGI byen - mødelokale 4. 
 * Oplæg omkring opgaven
-* test af de enkeltes setup
-* Måske lidt morgenmad.
-* fælles sammenstykning af dagens agenda
+* Test af de enkeltes setup
+* Måske lidt morgenmad ( klar mellem 8 og 10 ).
+* Fælles sammenstykning af dagens agenda
 
-## Tirsdag kl. 12.30 ?
+## Tirsdag kl. 12.00
 Fælles frokost
 
-## Tirsdag kl. 18.30 ?
-Fælles aftensmad
+## Tirsdag kl. 20.00
+Fælles aftensmad på Hard Rock Café, Rådhuspladsen
 
-## Tirsdag kl. 22.00 ?
+## Tirsdag kl. 23.00 ?
 Fælles natmad
 
+## Onsdag kl. 3.00
+Mødelokalet lukkes for rengøring -> Godnat
 
 ## Onsdag kl. 9.00
 Dem der kan (dem der ikke har arbejdet hele natten) mødes og deler/planlægger næste iteration.
+* Måske lidt morgenmad ( klar mellem 7 og 9.30 ).
 
-##  Onsdag kl. 12.30 ?
+##  Onsdag kl. 12.00
 Fælles frokost
 
 ## Onsdag kl. 15.00 ?
@@ -50,5 +53,24 @@ Afrunding og konklusioner
 
 ## Onsdag kl. 16-16.30
 Slut med Hackathon for denne gang.
+
+
+
+
+#Information og agenda fra DGI byen
+DGI-byen har meget at vælge imellem, derfor kan vi tilpasse mødelokalerne til jer - ikke omvendt. Her er højt til loftet, lokalerne er lyse og behagelige, og I kan nyde frokosten med udsigt over Kødbyens tage. Lige midt i København - kun 50 m. fra Hovedbanen.
+
+Mødelokalet har lærred, projektor, flipover, whiteboard, trådløst internet
+
+Nyttig info om DGI-byen
+http://dgi-byen.dk/nyttiginfo
+
+Inkl. find vej, parkering mv.
+
+Her ligger hotellet:
+http://www.dgi-byen.dk/files/pdf/Oversigtkort_DGI-byen_-_Hotel.pdf
+
+Der er gratis entré til bl.a. Vandkulturhuset (husk badebukser) og fitness.
+
 
 
